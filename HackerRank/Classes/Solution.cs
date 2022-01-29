@@ -10,15 +10,6 @@ namespace HackerRank.simpleArraySum
     {
         public static void Main(string[] args)
         {
-            List<int> arr = new List<int>();
-            arr.Add(1);
-            arr.Add(2);
-            arr.Add(3);
-            arr.Add(4);
-            arr.Add(5);
-
-
-            Result.miniMaxSum(arr);
 
         }
     }
