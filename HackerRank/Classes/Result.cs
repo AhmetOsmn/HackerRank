@@ -8,6 +8,7 @@ namespace HackerRank.simpleArraySum
 {
     public class Result
     {
-        
+       
+
     }
 }
