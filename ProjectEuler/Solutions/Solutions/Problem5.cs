@@ -22,7 +22,6 @@
 
         public static bool IsDivisible(int num)
         {
-            // int[] factors = {2,3,5,7,9};
             int[] factors = {11,12,13,14,15,16,17,18,19,20};
             
             foreach (int item in factors)
@@ -30,7 +29,6 @@
                 if(num % item != 0)
                     return false;
             }
-
             return true;
         }
     }
