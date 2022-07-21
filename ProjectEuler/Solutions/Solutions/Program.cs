@@ -12,7 +12,8 @@ namespace Solutions
             // Problem4.Solution();
             // Problem5.Solution();
             // Problem6.Solution();
-            Problem7.Solution();
+            // Problem7.Solution();
+            Problem8.Solution();
         }
     }
 }
