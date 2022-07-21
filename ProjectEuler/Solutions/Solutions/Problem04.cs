@@ -1,6 +1,6 @@
 ﻿namespace Solutions
 {
-    public class Problem4
+    public class Problem04
     {
         /*
          * IA palindromic number reads the same both ways. 

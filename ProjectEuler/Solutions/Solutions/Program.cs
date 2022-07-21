@@ -6,16 +6,17 @@ namespace Solutions
     {
         public static void Main(string[] args)
         {
-            // Problem1.Solution();
-            // Problem2.Solution();
-            // Problem3.Solution();
-            // Problem4.Solution();
-            // Problem5.Solution();
-            // Problem6.Solution();
-            // Problem7.Solution();
-            // Problem8.Solution();
-            //Problem9.Solution();
-            Problem10.Solution();
+            // Problem01.Solution();
+            // Problem02.Solution();
+            // Problem03.Solution();
+            // Problem04.Solution();
+            // Problem05.Solution();
+            // Problem06.Solution();
+            // Problem07.Solution();
+            // Problem08.Solution();
+            // Problem09.Solution();
+            // Problem10.Solution();
+            Problem11.Solution();
         }
     }
 }

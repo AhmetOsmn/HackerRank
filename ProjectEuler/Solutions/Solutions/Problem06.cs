@@ -1,6 +1,6 @@
 ﻿namespace Solutions
 {
-    public class Problem6
+    public class Problem06
     {
         /*
          * The sum of the squares of the first ten natural numbers is,
