@@ -24,18 +24,27 @@
 
         public static void Solution()
         {
+            double triangleNum = 0;
+            for (int i = 1;; i++)
+            {
+                triangleNum += i;
 
+                int count = 0;
 
-        }
-
-        public static double TriangleNumber(double num)
-        {
-            return num*(num+1)/2;
-        }
-
-        public static int FactorsCount(double num)
-        {
-            return 0;
+                for (int j = 1; j < Math.Sqrt(triangleNum); j++)
+                {
+                    if(triangleNum % j == 0)
+                    {
+                        count += 2;
+                        if(count == 500)
+                        {
+                            Console.WriteLine("result: " + triangleNum);
+                            return;
+                        }
+                    }
+                }
+                
+            }
         }
     }
 }
