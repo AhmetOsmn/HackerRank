@@ -3,7 +3,19 @@
 ################################################################################
 
 /ProjectEuler/Solutions/Solutions/obj
-/ProjectEuler/Solutions/.vs/Solutions/FileContentIndex/d45871a1-c5a7-4199-9a35-d091897abcdc.vsidx
-/ProjectEuler/Solutions/.vs/Solutions/FileContentIndex/read.lock
-/ProjectEuler/Solutions/.vs/ProjectEvaluation/solutions.metadata.v5.1
-/ProjectEuler/Solutions/.vs/ProjectEvaluation
+/Codewars/ConsoleApp/ConsoleApp/obj/Release/net5.0
+/.vs/ProblemSolvingExercises/FileContentIndex
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ref/ConsoleApp.dll
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/refint
+*.exe
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.BuildWithSkipAnalyzers
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.dll
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.FileListAbsolute.txt
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.genruntimeconfig.cache
+/Codewars/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.pdb
+/Codewars/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.dll
+/Codewars/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.pdb
+/Codewars/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.deps.json
+/Codewars/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.json
+/Codewars/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.dev.json

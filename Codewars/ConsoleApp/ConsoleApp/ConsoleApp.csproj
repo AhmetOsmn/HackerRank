@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Questions\1kyu\" />
+    <Folder Include="Questions\3kyu\" />
+    <Folder Include="Questions\2kyu\" />
+  </ItemGroup>
+
+</Project>
