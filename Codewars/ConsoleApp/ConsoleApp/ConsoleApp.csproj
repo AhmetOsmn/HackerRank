@@ -9,6 +9,9 @@
     <Folder Include="Questions\1kyu\" />
     <Folder Include="Questions\3kyu\" />
     <Folder Include="Questions\2kyu\" />
+    <Folder Include="Questions\1kyu\" />
+    <Folder Include="Questions\2kyu\" />
+    <Folder Include="Questions\3kyu\" />
   </ItemGroup>
 
 </Project>
