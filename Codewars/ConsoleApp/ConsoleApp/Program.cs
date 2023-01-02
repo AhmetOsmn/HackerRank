@@ -8,12 +8,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("abc")}");
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("abcABC123")}");
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("abcABC123!@€£#$%^&*()_-+=}{[]|\':;?/>.<,~")}");
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("")}");
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("ABC123!@€£#$%^&*()_-+=}{[]|\':;?/>.<,~")}");
-            Console.WriteLine($"result: {RegexCountLowercaseLetters.Execute("abcdefghijklmnopqrstuvwxyz")}");
+            Console.WriteLine($"result: {LeonardoDicaprioAndOscars.Execute(88)}");
+
         }
     }
 }
