@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ahmet\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmet.sezgin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\ahmet.sezgin\\source\\repos\\AhmetOsmn\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Projects\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\ahmet.sezgin\\source\\repos\\AhmetOsmn\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ahmet.sezgin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmet.sezgin\\source\\repos\\AhmetOsmn\\ProblemSolvingExercises\\Codewars\\ConsoleApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmet.sezgin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/PayGateNext/_packaging/PayGateNext/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -61,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
